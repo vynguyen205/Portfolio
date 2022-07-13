@@ -1,0 +1,76 @@
+body {
+    height: 100vh;
+    background-color: #c6c3ba;
+    margin: 10%;
+}
+
+main {
+    display: flex
+}
+
+.about-me {
+    width: 35%;
+}
+
+.bio-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.project-slideshow {
+    /* width: 100%;
+    height: 100%;
+    display: flex;
+    position: relative; */
+    border: 1px solid #000;
+}
+
+
+/* .slide {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: all 0.5s;
+}
+
+.slide img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: none;
+    display: flex;
+    z-index: 10px;
+    cursor: pointer;
+}
+
+.btn:active {
+    transform: scale(1.1);
+  }
+  
+  .btn-prev {
+    top: 45%;
+    left: 2%;
+  }
+  
+  .btn-next {
+    top: 45%;
+    right: 2%;
+  } */
